@@ -21,5 +21,4 @@ Hey!!! I'm Jayanth<br>A Curious guy who loves to explore the possibilities<br>ðŸ
 ---
 [![](https://visitcount.itsvg.in/api?id=jayanthmankavil&icon=8&color=4)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/jayanthmankavil/jayanthmankavil/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
